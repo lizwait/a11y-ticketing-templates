@@ -1,0 +1,21 @@
+A11Y Criteria:
+====
+
+AC: As an Attention-Deficit user
+GIVEN a [COMPONENT]
+WHEN the user [INTERACTION] on a [COMPONENT]
+THEN the user should
+- [RESULT] [COMPONENT]
+
+AC: As an Attention-Deficit user
+GIVEN a [COMPONENT]
+WHEN the user [INTERACTION] on a [COMPONENT]
+THEN the user should
+- [RESULT] [COMPONENT]
+
+
+AC: As a Dyslexic user
+GIVEN a [COMPONENT]
+WHEN the user [INTERACTION] on a [COMPONENT]
+THEN the user should
+- [RESULT] [COMPONENT]
