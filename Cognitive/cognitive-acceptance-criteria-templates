@@ -1,0 +1,7 @@
+A11Y Criteria:
+
+AC: As a [COGNITIVE] user
+GIVEN a [COMPONENT]
+WHEN the user [INTERACTION] on a [COMPONENT]
+THEN the user should
+- [RESULT] [COMPONENT]
